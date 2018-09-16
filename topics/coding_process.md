@@ -8,7 +8,7 @@ Lecture about coding process, git, programming principles and other small things
 
 [Dmitriy Matveyev](https://t.me/dmitry_matveyev) cool guy with more than 10 years of ruby experience, also worked as a project manager.
 
-Slides: presentation in PDF
+Slides: [presentation in PDF](https://drive.google.com/file/d/1N3ST6bgfw7n0aorqj-QUbNEcJTAf_81H/view?usp=sharing)
 
 
 # Resources
