@@ -4,7 +4,7 @@
 
 The first meeting is soon and we start with something lite, something useful for anyone. Let's discuss education and common pitfalls of learning.
 
-I'll try to prepare the presentation and will lead the discussion. 
+I'll try to prepare the presentation and will lead the discussion.
 
 After the discussion, I'll glad to hear your opinion or suggestions.
 
@@ -35,7 +35,7 @@ It's always cool to share your materials, **please open PRs with your links**, w
 * [email course] [Курс о внимание к себе и своему времени](http://www.niceandeasy.me/daily/course01-invitation#), Тимур Зарудный
 
 
-## Lections
+## Lectures
 
 * "[Мозг, инструкция по применению](https://www.youtube.com/watch?v=953uZgYNj9g)", Андрей Курпатов
 
