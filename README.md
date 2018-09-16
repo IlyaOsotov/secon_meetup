@@ -18,6 +18,6 @@ If you want to share something - just ping me in [telegram](https://t.me/kzvonov
 
 Discussion about education, how to learn quick, how to avoid mind traps, how to fight against procrastination.
 
-### 13.09.2018 CODING PROCESS
+### 13.09.2018 [CODING PROCESS](https://github.com/kzvonov/secon_meetup/blob/master/topics/coding_process.md)
 
 Lecture about coding process, git, programming principles and other small things that developers always forget.
