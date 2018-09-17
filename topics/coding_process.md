@@ -2,13 +2,13 @@
 
 ## Description
 
-Lecture about coding process, git, programming principles and other small things that developers always forget.
+Presentation about coding process, git, programming principles and other small things that developers always forget.
 
 ### Speaker
 
-[Dmitriy Matveyev](https://t.me/dmitry_matveyev) cool guy with more than 10 years of ruby experience, also worked as a project manager.
+[Dmitriy Matveyev](https://t.me/dmitry_matveyev) is a cool guy who works as a team lead now with more than 10 years Ruby, Rails and PM experience.
 
-Slides: [presentation in PDF](https://drive.google.com/file/d/1N3ST6bgfw7n0aorqj-QUbNEcJTAf_81H/view?usp=sharing)
+[slides in PDF](https://drive.google.com/file/d/1N3ST6bgfw7n0aorqj-QUbNEcJTAf_81H/view?usp=sharing)
 
 
 # Resources
@@ -23,3 +23,7 @@ It's always cool to share your materials, **please open PRs with your links**, w
 [Worst practices. Как испортить жизнь себе и другим.](https://youtu.be/yVla7wKFx0Q) - Иван Работяга, Evrone
 
 [Ментальное программирование](https://www.youtube.com/watch?v=ed7_KX2lCWY) - Кирилл Мокевнин
+
+## Books
+
+[Совершенный код](https://www.ozon.ru/context/detail/id/142768363/) - Steve Mcconnell
