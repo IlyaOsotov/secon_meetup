@@ -6,7 +6,7 @@ Presentation about coding process, git, programming principles and other small t
 
 ### Speaker
 
-[Dmitriy Matveyev](https://t.me/dmitry_matveyev) is a cool guy who works as a team lead now with more than 10 years Ruby, Rails and PM experience.
+[Dmitriy Matveyev](https://t.me/dmitry_matveyev) is a cool guy who works as a team lead now with more than 10 years Ruby, Rails and PM experience. Currently works in [Evrone](https://evrone.ru/).
 
 [slides in PDF](https://drive.google.com/file/d/1N3ST6bgfw7n0aorqj-QUbNEcJTAf_81H/view?usp=sharing)
 
